@@ -1,0 +1,11 @@
+duckduckgo-search
+google-search-results
+youtube_search
+youtube-transcript-api
+pytube
+wikipedia
+langchain
+langchainhub
+langchain_openai
+numexpr
+python-dotenv
